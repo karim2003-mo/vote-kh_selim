@@ -23,4 +23,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run script
-        run: python t1.py
+        run: python noran.py
